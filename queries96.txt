@@ -6,3 +6,7 @@ select* from CITY
 
 select *from CITY where ID=1661
 select * from CITY where countrycode='jpn'
+select name from CITY where countrycode='jpn'
+select city,state from STATION
+
+select city,state from STATION
